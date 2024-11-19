@@ -12,4 +12,10 @@ By Rhinoceros 8. Main idea was that turning "key" you also can turn a hand. Basi
 Important to shop how i've made a gears. Designing gears that can rotate is not such an easy task. in order not to waste extra time, I found a workaround - a program that simulates gears.  
 ![Screenshot_134](https://github.com/user-attachments/assets/fd07bb59-70f2-43ee-8075-10610f1ef519)  
 
-this is a free software without installation where you design your gears. because i have no time to discover whole functions of it for export stl model - i've made a screenshot, took it in Rhino, circled and created a surface from which modeled 3D models. This programm i wil add in file directory in this repository.
+this is a free software without installation where you design your gears. because i have no time to discover whole functions of it for export stl model - i've made a screenshot, took it in Rhino, circled and created a surface from which modeled 3D models. This programm i wil add in file directory in this repository.  
+
+Also you can see how geaars can move by this software.  
+
+
+https://github.com/user-attachments/assets/9b9560a9-a3d1-487c-9e1d-c22726dd9f99
+
