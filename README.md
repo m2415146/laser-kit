@@ -44,9 +44,12 @@ https://github.com/user-attachments/assets/05f904cd-c378-4d83-8ef4-7ea46238e121
 Formally and in reality, the task was completed. But, despite the fact that the object and the gears are moving, there are several nuances why I do not consider the project 100% successful:  
 
 1) Parts broke during their extrusion from the wooden plate - it was necessary to make the jumpers thinner;
- 2) Due to the fact that the connecting circles, which were supposed to hold the structure as a single whole, turned out to be too narrow - they broke and the gears moved apart on the plane;
-      3) it was worth making the lower circles, which I made in order to reduce friction of the indicators on the surface, with the same tolerance as the upper ones - they are too loose for me;
-       4) at some point I was tired of this project and I needed moral strength to move on. I’m not sure that I’ll want to bring it to perfection, but the experience gained during the task was useful
+   
+2) Due to the fact that the connecting circles, which were supposed to hold the structure as a single whole, turned out to be too narrow - they broke and the gears moved apart on the plane;
+
+3) it was worth making the lower circles, which I made in order to reduce friction of the indicators on the surface, with the same tolerance as the upper ones - they are too loose for me;  
+   
+4) at some point I was tired of this project and I needed moral strength to move on. I’m not sure that I’ll want to bring it to perfection, but the experience gained during the task was useful
 
 
 
